@@ -1,7 +1,6 @@
 
-![](line-rainbow.gif)
-
 ### Social
+
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-segre-5a974416b/)
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/segre_/)
 
@@ -13,9 +12,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=gustavosegre&show_icons=true&theme=tokyonight)
 
-[![My Skills](https://skillicons.dev/icons?i=py,mysql)](https://skillicons.dev)
 
-![](line-rainbow.gif)
 
 
 
