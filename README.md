@@ -7,10 +7,15 @@
 
 
 
+ <img align="right" style="float: left" width="400" height="400" src="https://github.com/gustavosegre/gustavosegre/assets/13548311/57e645fb-c0ae-408c-924e-9de90c4073ed">
 
-<!--- README-STATS> (https://github.com/anuraghazra/github-readme-stats) -->
 
-![](https://github-readme-stats.vercel.app/api?username=gustavosegre&show_icons=true&theme=tokyonight)
+
+* Matemática UTRPR
+* Ciencia de Dados UNINTER
+
+
+
 
 
 
