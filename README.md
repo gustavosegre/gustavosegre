@@ -1,4 +1,9 @@
 
+<img src="https://github.com/gustavosegre/gustavosegre/assets/13548311/3592325a-7515-4f2e-a427-c3b4577f0776" alt="drawing" width="1900"/>
+<img src="https://github.com/gustavosegre/gustavosegre/assets/13548311/1d336254-5f7a-4d03-9918-b8f358b9977b" alt="drawing" width="1900" height=4/>
+
+
+
 ### Social
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-segre-5a974416b/)
@@ -11,12 +16,19 @@
 
 
 
-* Matemática UTRPR
-* Ciencia de Dados UNINTER
+* Matemática | UTRPR
+* Estudante de Ciencia de Dados | Uninter
+* Machine Learning
+* Data
 
 
 
 
+   
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavosegre&layout=compact&theme=tokyonight)
+
+
+<img src="https://github.com/gustavosegre/gustavosegre/assets/13548311/1d336254-5f7a-4d03-9918-b8f358b9977b" alt="drawing" width="1900" height=4/>
 
 
 
