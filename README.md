@@ -1,13 +1,11 @@
 
 <img src="https://github.com/gustavosegre/gustavosegre/assets/13548311/3592325a-7515-4f2e-a427-c3b4577f0776" alt="drawing" width="1900"/>
-<img src="https://github.com/gustavosegre/gustavosegre/assets/13548311/1d336254-5f7a-4d03-9918-b8f358b9977b" alt="drawing" width="1900" height=4/>
 
 
 
 ### Social
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-segre-5a974416b/)
-[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/segre_/)
 
 
 
